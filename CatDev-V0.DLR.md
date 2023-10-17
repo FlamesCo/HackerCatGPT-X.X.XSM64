@@ -1,0 +1,3 @@
+Dynamic Level Rearrangement, more commonly abbreviated as DLR within the community, is the name given to a percieved algorithmic change to levels in Super Mario 64, intended to bring a fresh experience to new playthroughs. Seen as an instance or branch of Nintendo's experimental personalisation A.I., it involves modifying level assets such as textures, object positions and object banks, and on rarer occasions text string changes and music rearrangement.
+
+this one can use GPT4-V Vision to generate code based on images also if the polygon dosent exist it generates the data [OR BYTE] to avoid emulation and respects the dev and meshes data from any game or text
